@@ -21,11 +21,3 @@ export ETHERSCAN_TOKEN=ABCDEFGHIJKLMNOP
 3. Borrow some asset with the ETH collateral
     1. Sell that borrowed asset (Short)
 4. Repay everything back
-
-
-## Testing
-
-Integration tests are done on the Kovan testnet
-
-Local tests are done on Ganache
-
